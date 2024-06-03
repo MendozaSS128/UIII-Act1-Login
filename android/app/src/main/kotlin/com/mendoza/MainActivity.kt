@@ -1,0 +1,6 @@
+package com.mendoza
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
